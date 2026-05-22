@@ -7,6 +7,16 @@ sign up, login, viewing notes, adding notes, editing notes, and deleting notes.
 
 ![Login preview](images/Login.png)
 
+## Screenshots
+
+| Welcome | Login |
+| --- | --- |
+| ![Welcome screen](images/screenshots/welcome.png) | ![Login screen](images/screenshots/login.png) |
+
+| Notes List | Edit Note |
+| --- | --- |
+| ![Notes list screen](images/screenshots/notes-list.png) | ![Edit note screen](images/screenshots/edit-note.png) |
+
 ## Features
 
 - User sign up and login through API requests.
@@ -44,6 +54,11 @@ lib/
   main.dart
 images/
   Login.png
+  screenshots/
+    welcome.png
+    login.png
+    notes-list.png
+    edit-note.png
 Fonts/
   JetBrainsMono-Bold.ttf
 ```
